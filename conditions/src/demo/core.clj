@@ -1,4 +1,4 @@
-(ns conditions.core
+(ns demo.core
   (:gen-class))
 (declare condition-if)
 (declare case-test)
@@ -14,7 +14,7 @@
   ;;(case-test)
 
   ;;Cond example
-  ;;(cond-test)
+  (cond-test)
   )
 
 
